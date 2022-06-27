@@ -1,7 +1,5 @@
 package D.Methods;
 
-import org.jetbrains.annotations.NotNull;
-
 import java.util.Scanner;
 
 public class p16Orders {
